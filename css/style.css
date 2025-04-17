@@ -8,4 +8,12 @@ body{
     font-size: medium;
     font-weight: 400px;
    }
-    
+   body {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+  }
+  
+  h1 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+  }
